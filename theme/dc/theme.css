@@ -6,9 +6,9 @@
 */
 
 :root {
-  --gall-name: '트위치';
-  --gall-name-suffix: '와';
-  --gall-type: 'm. 갤러리';
+  --gall-name: '철도(지하철)';
+  --gall-name-suffix: '과';
+  --gall-type: '갤러리';
 }
 * {
   box-sizing: border-box;

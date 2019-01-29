@@ -14,9 +14,9 @@
 }
 
 :root {
-  --bg: #eee;
-  --fg: #111;
-  --tint: hsla(210, 75%, 60%, 1);
+  --bg: #a0a9af;
+  --fg: #ffffff;
+  --tint: #0066b6;
 }
 
 * {
